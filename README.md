@@ -5,9 +5,11 @@
 
 <h1 align="center" style="font-weight: bold;">GPT-3 Modern React App 💻</h1>
 
-![react][REACT__BADGE]
-![javascript][JAVASCRIPT__BADGE]
-
+<div align="center">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
 <p align="center">
  <a href="#about">Sobre</a> • 
  <a href="#started">Começando</a> • 
@@ -17,14 +19,12 @@
 </p>
 
 <p align="center">
-    <img src="https://via.placeholder.com/400" alt="Image Example" width="400px">
+    <img src="https://camo.githubusercontent.com/552678b6494022032a13602ad29387006339416d22d96b115f78bdeed436432e/68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67" alt="Image Example" width="400px">
 </p>
 
 <h2 id="about">📌 Sobre</h2>
 
 Este projeto é um aplicativo moderno em React que demonstra as capacidades do GPT-3. Ele inclui várias seções, como cabeçalho, recursos, o que é GPT-3, possibilidades, CTA, blog e rodapé. O aplicativo foi projetado para ser responsivo e visualmente atraente, com foco na experiência do usuário.
-
-[![project][PROJECT__BADGE]][PROJECT__URL]
 
 <h2 id="started">🚀 Començando</h2>
 
